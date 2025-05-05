@@ -1,4 +1,4 @@
-#🏎️ Formula 1 Tyre Degradation Prediction
+# 🏎️ Formula 1 Tyre Degradation Prediction
 This project builds machine learning models to predict tyre degradation in Formula 1 based on historical pit stop and race data. The goal is to forecast when a tyre's performance is likely to drop off, helping strategists and engineers optimize pit stop timing.
 
 I've used a comprehensive dataset of pit stop records from 1950–2024, which includes:
